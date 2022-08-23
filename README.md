@@ -1,3 +1,2 @@
 # testowe
-Testowe repozytorium publiczne 123
-niech się robi
+Testowe repozytorium publiczne 123 :D
